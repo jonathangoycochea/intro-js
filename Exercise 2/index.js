@@ -2,7 +2,7 @@ const cellphone = {
     brand: 'Samsung',
     color: 'blue',
     price: 19_000,
-    creation_date: 2020
+    creation_date: 2020,
 };
 
 // Mostrar (en un console log) el valor de la key precio de dicho objeto.
